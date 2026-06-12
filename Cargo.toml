@@ -1,0 +1,11 @@
+[workspace]
+resolver = "3"
+members = ["mctrl-core"]
+
+[workspace.package]
+edition = "2024"
+version = "0.1.0"
+license = "MIT"
+authors = ["AleMenon <alexandrealberto.menon@gmail.com>"]
+repository = "https://github.com/AleMenon/fortrek-mctrl"
+rust-version = "1.95.0"
